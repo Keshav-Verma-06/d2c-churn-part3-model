@@ -1,3 +1,10 @@
+(Part 1)	`https://github.com/Keshav-Verma-06/d2c-churn-part1-eda`
+(Part 2)	`https://github.com/Keshav-Verma-06/d2c-churn-part2-rfm`
+(Part 3)	`https://github.com/Keshav-Verma-06/d2c-churn-part3-model`
+(Part 4)	`https://github.com/Keshav-Verma-06/d2c-churn-part4-api`
+<img width="391" height="85" alt="image" src="https://github.com/user-attachments/assets/73c6e115-7325-4d6c-9de4-3a9b9f6076fd" />
+
+
 # Part 3 Repository — Churn Prediction Model & Model Card
 
 **Independent & runnable.** Uses **only** pre-snapshot data (≤ `2025-09-30`).  
