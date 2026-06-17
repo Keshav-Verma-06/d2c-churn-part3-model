@@ -97,4 +97,4 @@ After running `train_pipeline.py`, see `metrics.json` for exact numbers. Typical
 - [x] Two models + comparison
 - [x] Business threshold justification
 
-Push this folder as a **public GitHub repository** for Part 3 submission.
+**Public repository:** https://github.com/Keshav-Verma-06/d2c-churn-part3-model
